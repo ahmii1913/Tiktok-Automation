@@ -1,0 +1,5 @@
+playwright
+moviepy
+Pillow
+requests
+tk
